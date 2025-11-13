@@ -2,7 +2,7 @@
   "name": "website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Yaswanth-reddy-gunupati8712.github.io/samplewebsite",
+  "homepage":  "https://Yaswanth-reddy-gunupati8712.github.io/samplewebsite",
   "type": "module",
   "scripts": {
     "dev": "vite",
